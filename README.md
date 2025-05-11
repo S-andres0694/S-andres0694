@@ -25,5 +25,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-andres0694&show_icons=true&locale=en&layout=compact&theme=dark" alt="s-andres0694" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-andres0694&show_icons=true&locale=en&theme=dark" alt="s-andres0694" /></p>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <p>
+    <img align="centre" src="https://github-readme-stats.vercel.app/api?username=s-andres0694&show_icons=true&locale=en&theme=dark" alt="s-andres0694" />
+  </p>
+  <p>
+    <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-andres0694&show_icons=true&locale=en&layout=compact&theme=dark" alt="s-andres0694" />
+  </p>
+  <p>
+    <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=s-andres0694&theme=dark" alt="s-andres0694" />
+  </p>
+</div>
