@@ -1,12 +1,11 @@
 <h1 align="center">Hello, I'm Sebastian!</h1>
 <h3 align="center">A Computer Science Undergraduate Student of the University of St. Andrews (who aspires to work as a SWE)</h3>
 
-- I'm currently working on getting my degree and learning technologies such as React.js, PyTorch and Express.js!
-- Interested in Full-Stack Development, DevOps and developing Mobile and Desktop apps.
-- I'm looking for help with Coding Exercises and Data Structures [CodingExercises](https://github.com/S-andres0694/CodingExercises)
-- 💬 Ask me about **Java, Python, TypeScript, React and Full-Stack Web Development**
+- I'm currently working on getting my degree and learning technologies such as React.js, Kubernetes and Express.js!
+- Interested in Full-Stack Web Development, DevOps and Site Reliability
+- 💬 Ask me about **Kubernetes, Python, TypeScript, React and Full-Stack Web Development**
 - 📫 How to reach me **sebasandres0694@gmail.com**
-- 📄 Know about my experiences [https://standardresume.co/r/SebastianElKhourySeoane](https://standardresume.co/r/SebastianElKhourySeoane)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/sebastian-el-khoury-seoane-234791303/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
