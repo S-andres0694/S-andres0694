@@ -15,11 +15,11 @@
 
 I'm a full-stack web developer passionate about building scalable, cloud-native applications. With hands-on experience in modern web technologies, containerization, and CI/CD pipelines, I specialize in:
 
-- **Backend Development** with Node.js, TypeScript, and Express/Fastify
-- **Frontend Development** with React and Next.js, styled with TailwindCSS
-- **Database Design** with PostgreSQL and MongoDB
-- **Cloud Infrastructure** using Docker, Kubernetes, and GCP
-- **DevOps & Reliability** practices with CI/CD automation
+- **Backend Development** with Node.js, TypeScript, and Express/Fastify.
+- **Frontend Development** with React and Next.js, styled with TailwindCSS.
+- **Database Design** with PostgreSQL and MongoDB.
+- **Cloud Infrastructure** using Docker, Kubernetes, and GCP.
+- **DevOps & Reliability** practices with CI/CD automation.
 
 ---
 
