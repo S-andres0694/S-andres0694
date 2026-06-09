@@ -129,6 +129,7 @@ I'm a full-stack web developer passionate about building scalable, cloud-native 
   <img src="./assets/icons/vscode.svg" alt="vscode" width="45" height="45" title="VS Code"/>
   <img src="./assets/icons/neovim.svg" alt="neovim" width="45" height="45" title="Neovim"/>
   <img src="./assets/icons/linux.svg" alt="linux" width="45" height="45" title="Linux"/>
+  <img src="./assets/icons/macos.png" alt="macos" width="45" height="45" title="Macos"/>
   <img src="./assets/icons/opencode.png" alt="opencode" width="45" height="45" title="OpenCode"/>
   <img src="./assets/icons/hermes-agent.png" alt="hermes-agent" width="45" height="45" title="Hermes Agent"/>
   <img src="./assets/icons/warp.png" alt="warp-terminal" width="45" height="45" title="Warp Terminal"/>
