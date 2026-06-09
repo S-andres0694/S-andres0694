@@ -105,6 +105,7 @@ I'm a full-stack web developer passionate about building scalable, cloud-native 
 
 <p align="left">
   <img src="./assets/icons/docker.svg" alt="docker" width="45" height="45" title="Docker"/>
+  <img src="./assets/icons/orbstack.png" alt="Orbstack" width="45" height="45" title="Orbstack"/>
   <img src="./assets/icons/kubernetes.svg" alt="kubernetes" width="45" height="45" title="Kubernetes"/>
   <img src="./assets/icons/helm.svg" alt="helm" width="45" height="45" title="Helm"/>
   <img src="./assets/icons/gcp.svg" alt="gcp" width="45" height="45" title="Google Cloud Platform"/>
@@ -128,6 +129,9 @@ I'm a full-stack web developer passionate about building scalable, cloud-native 
   <img src="./assets/icons/vscode.svg" alt="vscode" width="45" height="45" title="VS Code"/>
   <img src="./assets/icons/neovim.svg" alt="neovim" width="45" height="45" title="Neovim"/>
   <img src="./assets/icons/linux.svg" alt="linux" width="45" height="45" title="Linux"/>
+  <img src="./assets/icons/opencode.png" alt="opencode" width="45" height="45" title="Opencode"/>
+  <img src="./assets/icons/hermes-agent.png" alt="hermes-agent" width="45" height="45" title="Hermes Agent"/>
+  <img src="./assets/icons/warp.png" alt="warp-terminal" width="45" height="45" title="warp-terminal"/>
 </p>
 
 ---
