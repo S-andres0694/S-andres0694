@@ -6,7 +6,7 @@
     <strong>🎓</strong> Computer Science Student (Penultimate Year)<br>
     <strong>🏆</strong> Dean's List (2024-2025) | International Foundation Programme High-Merit (2023-2024)<br>
     <strong>📍</strong> St Andrews, Scotland | <strong>🌍</strong> Remote-Ready<br>
-    <strong>☁️</strong> Upcoming DevOps Engineer Intern @ TMX Trayport
+    <strong>☁️</strong> Platform Engineering Intern @ TMX Trayport
   </p>
 </div>
 
