@@ -3,7 +3,7 @@
   <h3>Full-Stack Web Developer | Cloud Infrastructure and DevOps Engineer | CS @ University of St Andrews</h3>
   
   <p>
-    <strong>🎓</strong> Computer Science Student (Penultimate Year)<br>
+    <strong>🎓</strong> Computer Science Student (Final Year)<br>
     <strong>🏆</strong> Dean's List (2024-2025) | International Foundation Programme High-Merit (2023-2024)<br>
     <strong>📍</strong> St Andrews, Scotland | <strong>🌍</strong> Remote-Ready<br>
     <strong>☁️</strong> Platform Engineering Intern @ TMX Trayport
