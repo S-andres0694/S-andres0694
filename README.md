@@ -6,7 +6,6 @@
     <strong>🎓</strong> Computer Science Student (Final Year)<br>
     <strong>🏆</strong> Dean's List (2024-2025) | International Foundation Programme High-Merit (2023-2024)<br>
     <strong>📍</strong> St Andrews, Scotland | <strong>🌍</strong> Open to Relocation & Remote<br>
-    <strong>☁️</strong> Platform Engineering Intern @ TMX Trayport
   </p>
 </div>
 
