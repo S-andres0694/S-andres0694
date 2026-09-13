@@ -1,11 +1,11 @@
 <div align="center">
   <h1>👋 Hi, I'm Sebastian Andres El Khoury Seoane</h1>
-  <h3>Full-Stack Web Developer | Cloud Infrastructure and DevOps Engineer | CS @ University of St Andrews</h3>
+  <h3>Platform Engineer | Cloud Infrastructure & DevOps | SRE | CS @ University of St Andrews</h3>
   
   <p>
     <strong>🎓</strong> Computer Science Student (Final Year)<br>
     <strong>🏆</strong> Dean's List (2024-2025) | International Foundation Programme High-Merit (2023-2024)<br>
-    <strong>📍</strong> St Andrews, Scotland | <strong>🌍</strong> Remote-Ready<br>
+    <strong>📍</strong> St Andrews, Scotland | <strong>🌍</strong> Open to Relocation & Remote<br>
     <strong>☁️</strong> Platform Engineering Intern @ TMX Trayport
   </p>
 </div>
@@ -14,13 +14,16 @@
 
 ## 🚀 About Me
 
-I'm a full-stack web developer passionate about building scalable, cloud-native applications. With hands-on experience in modern web technologies, containerization, and CI/CD pipelines, I specialize in:
+Final-year CS student with hands-on platform engineering experience in multi-region AWS EKS environments, Helm-based platform development, and infrastructure automation via Terraform and ArgoCD. Also experienced in open-source engineering for AI Platforms.
 
-- **Backend Development** with Node.js, TypeScript, and Express/Fastify.
-- **Frontend Development** with React and Next.js, styled with TailwindCSS.
-- **Database Design** with PostgreSQL and MongoDB.
-- **Cloud Infrastructure** using Docker, Kubernetes, and GCP.
-- **DevOps & Reliability** practices with CI/CD automation.
+Seeking graduate roles in **Platform Engineering, DevOps, SRE, or Cloud Infrastructure**.
+
+**Key strengths:**
+- **Platform Engineering** — Kubernetes, AWS, Terraform, Docker, Helm, multi-tenant infrastructure
+- **Cloud Infrastructure** — AWS (EKS, IAM, S3, Route 53), GCP, Terraform, HCP Terraform
+- **Observability & Monitoring** — Grafana, Prometheus, OpenTelemetry, Jaeger
+- **CI/CD & GitOps** — GitHub Actions, ArgoCD, Azure DevOps, Kyverno policy management
+- **Backend Development** — TypeScript, Python, Java, Node.js, REST APIs
 
 ---
 
@@ -29,15 +32,15 @@ I'm a full-stack web developer passionate about building scalable, cloud-native 
 <table>
   <tr>
     <td><strong>Specialization</strong></td>
-    <td>Full-Stack Web Development, DevOps, Site Reliability Engineering.</td>
+    <td>Platform Engineering, DevOps, Site Reliability Engineering, Cloud Infrastructure.</td>
   </tr>
   <tr>
-    <td><strong>Languages</strong></td>
-    <td>TypeScript, JavaScript, Python, Java, C++, Rust.</td>
+    <td><strong>Core Stack</strong></td>
+    <td>Kubernetes, AWS, Terraform, Docker, Python, Helm, Grafana, TypeScript, Java.</td>
   </tr>
   <tr>
-    <td><strong>Frameworks & Tools</strong></td>
-    <td>React, Next.js, Express, Fastify, Flask, Django, Node.js, PostgreSQL, Docker, Kubernetes.</td>
+    <td><strong>Tools & Practices</strong></td>
+    <td>ArgoCD, Kyverno, Linux, Bash, GitHub Actions, GCP, Prometheus, OpenTelemetry, Azure DevOps.</td>
   </tr>
 </table>
 
@@ -70,8 +73,41 @@ I'm a full-stack web developer passionate about building scalable, cloud-native 
   <img src="./assets/icons/java.svg" alt="java" width="45" height="45" title="Java"/>
   <img src="./assets/icons/nodejs.svg" alt="nodejs" width="45" height="45" title="Node.js"/>
   <img src="./assets/icons/rust.svg" alt="rust" width="45" height="45" title="Rust"/>
+  <img src="./assets/icons/bash.svg" alt="bash" width="45" height="45" title="Bash"/>
   <img src="./assets/icons/csharp.svg" alt="csharp" width="45" height="45" title="C#"/>
   <img src="./assets/icons/cplusplus.svg" alt="cplusplus" width="45" height="45" title="C++"/>
+</p>
+
+### **☁️ Cloud & Infrastructure**
+
+<p align="left">
+  <img src="./assets/icons/kubernetes.svg" alt="kubernetes" width="45" height="45" title="Kubernetes"/>
+  <img src="./assets/icons/docker.svg" alt="docker" width="45" height="45" title="Docker"/>
+  <img src="./assets/icons/amazonwebservices.svg" alt="aws" width="45" height="45" title="AWS"/>
+  <img src="./assets/icons/terraform.svg" alt="terraform" width="45" height="45" title="Terraform"/>
+  <img src="./assets/icons/helm.svg" alt="helm" width="45" height="45" title="Helm"/>
+  <img src="./assets/icons/gcp.svg" alt="gcp" width="45" height="45" title="Google Cloud Platform"/>
+  <img src="./assets/icons/orbstack.png" alt="orbstack" width="45" height="45" title="Orbstack"/>
+  <img src="./assets/icons/linux.svg" alt="linux" width="45" height="45" title="Linux"/>
+  <img src="./assets/icons/cilium.svg" alt="cilium" width="45" height="45" title="Cilium"/>
+</p>
+
+### **🔄 CI/CD & GitOps**
+
+<p align="left">
+  <img src="./assets/icons/argocd.svg" alt="argocd" width="45" height="45" title="ArgoCD"/>
+  <img src="./assets/icons/githubactions.svg" alt="githubactions" width="45" height="45" title="GitHub Actions"/>
+  <img src="./assets/icons/kyverno.svg" alt="kyverno" width="45" height="45" title="Kyverno"/>
+  <img src="./assets/icons/azuredevops.svg" alt="azuredevops" width="45" height="45" title="Azure DevOps"/>
+</p>
+
+### **📊 Monitoring & Observability**
+
+<p align="left">
+  <img src="./assets/icons/grafana.svg" alt="grafana" width="45" height="45" title="Grafana"/>
+  <img src="./assets/icons/prometheus.svg" alt="prometheus" width="45" height="45" title="Prometheus"/>
+  <img src="./assets/icons/opentelemetry.svg" alt="opentelemetry" width="45" height="45" title="OpenTelemetry"/>
+  <img src="./assets/icons/jaeger.svg" alt="jaeger" width="45" height="45" title="Jaeger"/>
 </p>
 
 ### **🎨 Frontend & UI**
@@ -101,18 +137,6 @@ I'm a full-stack web developer passionate about building scalable, cloud-native 
   <img src="./assets/icons/redis.svg" alt="redis" width="45" height="45" title="Redis"/>
 </p>
 
-### **☁️ DevOps & Infrastructure**
-
-<p align="left">
-  <img src="./assets/icons/docker.svg" alt="docker" width="45" height="45" title="Docker"/>
-  <img src="./assets/icons/orbstack.png" alt="Orbstack" width="45" height="45" title="Orbstack"/>
-  <img src="./assets/icons/kubernetes.svg" alt="kubernetes" width="45" height="45" title="Kubernetes"/>
-  <img src="./assets/icons/helm.svg" alt="helm" width="45" height="45" title="Helm"/>
-  <img src="./assets/icons/gcp.svg" alt="gcp" width="45" height="45" title="Google Cloud Platform"/>
-  <img src="./assets/icons/grafana.svg" alt="grafana" width="45" height="45" title="Grafana"/>
-  <img src="./assets/icons/prometheus.svg" alt="prometheus" width="45" height="45" title="Prometheus"/>
-</p>
-
 ### **📊 Data Science & Analysis**
 
 <p align="left">
@@ -128,11 +152,11 @@ I'm a full-stack web developer passionate about building scalable, cloud-native 
   <img src="./assets/icons/git.svg" alt="git" width="45" height="45" title="Git"/>
   <img src="./assets/icons/vscode.svg" alt="vscode" width="45" height="45" title="VS Code"/>
   <img src="./assets/icons/neovim.svg" alt="neovim" width="45" height="45" title="Neovim"/>
-  <img src="./assets/icons/linux.svg" alt="linux" width="45" height="45" title="Linux"/>
   <img src="./assets/icons/macos.png" alt="macos" width="45" height="45" title="MacOS"/>
+  <img src="./assets/icons/warp.png" alt="warp-terminal" width="45" height="45" title="Warp Terminal"/>
   <img src="./assets/icons/opencode.png" alt="opencode" width="45" height="45" title="OpenCode"/>
   <img src="./assets/icons/hermes-agent.png" alt="hermes-agent" width="45" height="45" title="Hermes Agent"/>
-  <img src="./assets/icons/warp.png" alt="warp-terminal" width="45" height="45" title="Warp Terminal"/>
+  <img src="./assets/icons/ollama.svg" alt="ollama" width="45" height="45" title="Ollama"/>
 </p>
 
 ---
