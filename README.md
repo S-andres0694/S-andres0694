@@ -98,6 +98,7 @@ Seeking graduate roles in **Platform Engineering, DevOps, SRE, or Cloud Infrastr
   <img src="./assets/icons/githubactions.svg" alt="githubactions" width="45" height="45" title="GitHub Actions"/>
   <img src="./assets/icons/kyverno.svg" alt="kyverno" width="45" height="45" title="Kyverno"/>
   <img src="./assets/icons/azuredevops.svg" alt="azuredevops" width="45" height="45" title="Azure DevOps"/>
+    <img src="./assets/icons/Flux_color_logo.svg" alt="fluxcd" width="80" height="80" title="Flux CD"/>
 </p>
 
 ### **📊 Monitoring & Observability**
